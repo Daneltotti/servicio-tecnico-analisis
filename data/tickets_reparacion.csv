@@ -1,0 +1,251 @@
+id_ticket,fecha,hora,id_cliente,modelo,falla,estado,tiempo_reparacion_horas,costo_repuesto,precio_final,tecnico,canal
+1,2026-01-02,09:14,102,iPhone 11,Pantalla rota,Completado,3.5,48,95,Juan,Tienda física
+2,2026-01-02,10:22,115,Samsung S21,Batería,Completado,2,22,55,Lucía,Instagram
+3,2026-01-02,11:47,108,Xiaomi Redmi Note 11,Conector de carga,Completado,2.5,18,50,Marcos,Google
+4,2026-01-03,15:33,121,iPhone XR,Software,Completado,1,0,25,Sofía,WhatsApp
+5,2026-01-03,16:10,134,MacBook Air 2019,Humedad,En proceso,5,60,120,Pedro,Tienda física
+6,2026-01-04,10:55,109,iPhone 12,Cámara,Completado,2.5,28,70,Juan,Web
+7,2026-01-04,12:41,118,Samsung S22,Altavoz,Completado,1.5,15,45,Lucía,Instagram
+8,2026-01-04,17:22,140,iPad 8,Batería,Completado,2,25,60,Marcos,Google
+9,2026-01-05,09:03,111,iPhone SE 2020,Pantalla rota,Completado,3,45,90,Sofía,Tienda física
+10,2026-01-05,13:18,127,Xiaomi Redmi Note 10,Software,Completado,0.5,0,20,Pedro,WhatsApp
+11,2026-01-06,11:44,119,iPhone 13,Placa base,En proceso,6,80,150,Juan,Web
+12,2026-01-06,14:09,130,Samsung S21,Micrófono,Completado,2,18,55,Lucía,Instagram
+13,2026-01-06,16:55,105,MacBook Air 2017,Conector de carga,Completado,3,25,75,Marcos,Tienda física
+14,2026-01-07,10:33,112,iPhone 11,Batería,Completado,1.5,20,50,Sofía,Google
+15,2026-01-07,12:48,138,Xiaomi Redmi Note 11,Pantalla rota,Completado,3.5,48,95,Pedro,Web
+16,2026-01-07,17:11,124,iPhone XR,Altavoz,Completado,1.5,15,45,Juan,Instagram
+17,2026-01-08,09:27,133,Samsung S22,Humedad,En proceso,5,60,120,Lucía,Tienda física
+18,2026-01-08,11:39,110,iPad 8,Software,Completado,0.5,0,20,Marcos,Google
+19,2026-01-08,15:22,129,iPhone 12,Micrófono,Completado,2,18,55,Sofía,WhatsApp
+20,2026-01-09,10:41,101,iPhone 13,Pantalla rota,Completado,3.5,48,95,Pedro,Tienda física
+21,2026-01-09,13:55,117,Xiaomi Redmi Note 10,Batería,Completado,2,22,55,Juan,Instagram
+22,2026-01-09,16:18,125,Samsung S21,Conector de carga,Completado,2.5,18,50,Lucía,Google
+23,2026-01-10,09:12,136,iPhone SE 2020,Software,Completado,1,0,25,Marcos,Web
+24,2026-01-10,11:47,113,MacBook Air 2019,Placa base,En proceso,6,80,150,Sofía,Tienda física
+25,2026-01-10,14:33,122,iPhone 11,Altavoz,Completado,1.5,15,45,Pedro,Instagram
+26,2026-01-11,10:05,135,Samsung S22,Cámara,Completado,2.5,28,70,Juan,Google
+27,2026-01-11,12:58,120,iPhone XR,Humedad,En proceso,5,60,120,Lucía,WhatsApp
+28,2026-01-11,17:22,107,Xiaomi Redmi Note 11,Batería,Completado,2,22,55,Marcos,Tienda física
+29,2026-01-12,09:44,114,iPhone 12,Pantalla rota,Completado,3.5,48,95,Sofía,Instagram
+30,2026-01-12,13:11,132,iPad 8,Conector de carga,Completado,2.5,18,50,Pedro,Google
+31,2026-01-12,16:33,139,iPhone 13,Software,Completado,1,0,25,Juan,Web
+32,2026-01-13,10:22,103,Samsung S21,Micrófono,Completado,2,18,55,Lucía,Tienda física
+33,2026-01-13,12:55,128,MacBook Air 2017,Altavoz,Completado,1.5,15,45,Marcos,Instagram
+34,2026-01-13,15:44,106,iPhone SE 2020,Batería,Completado,2,22,55,Sofía,Google
+35,2026-01-14,09:18,137,Xiaomi Redmi Note 10,Pantalla rota,Completado,3.5,48,95,Pedro,Web
+36,2026-01-14,11:33,116,iPhone 11,Conector de carga,Completado,2.5,18,50,Juan,WhatsApp
+37,2026-01-14,14:27,131,Samsung S22,Software,Completado,0.5,0,20,Lucía,Tienda física
+38,2026-01-15,10:41,104,iPhone XR,Humedad,En proceso,5,60,120,Marcos,Instagram
+39,2026-01-15,13:55,126,iPad 8,Cámara,Completado,2.5,28,70,Sofía,Google
+40,2026-01-15,16:22,123,iPhone 12,Altavoz,Completado,1.5,15,45,Pedro,Web
+41,2026-01-16,09:33,141,Xiaomi Redmi Note 11,Micrófono,Completado,2,18,55,Juan,Tienda física
+42,2026-01-16,12:14,118,Samsung S21,Batería,Completado,2,22,55,Lucía,Instagram
+43,2026-01-16,15:55,110,iPhone 13,Pantalla rota,Completado,3.5,48,95,Marcos,Google
+44,2026-01-17,10:11,133,MacBook Air 2019,Conector de carga,Completado,3,25,75,Sofía,Web
+45,2026-01-17,12:48,119,iPhone SE 2020,Software,Completado,1,0,25,Pedro,WhatsApp
+46,2026-01-17,17:22,127,Samsung S22,Placa base,En proceso,6,80,150,Juan,Tienda física
+47,2026-01-18,09:44,105,iPhone XR,Altavoz,Completado,1.5,15,45,Lucía,Instagram
+48,2026-01-18,13:33,130,Xiaomi Redmi Note 10,Batería,Completado,2,22,55,Marcos,Google
+49,2026-01-18,16:55,112,iPhone 11,Cámara,Completado,2.5,28,70,Sofía,Web
+50,2026-01-19,10:22,138,iPad 8,Pantalla rota,Completado,3.5,48,95,Pedro,Tienda física
+51,2026-01-19,12:58,121,iPhone 12,Software,Completado,1,0,25,Juan,Instagram
+52,2026-01-19,15:44,134,Samsung S21,Humedad,En proceso,5,60,120,Lucía,Google
+53,2026-01-20,09:33,109,iPhone 13,Conector de carga,Completado,2.5,18,50,Marcos,Web
+54,2026-01-20,11:55,140,Xiaomi Redmi Note 11,Altavoz,Completado,1.5,15,45,Sofía,WhatsApp
+55,2026-01-20,14:22,117,MacBook Air 2017,Batería,Completado,2,22,55,Pedro,Tienda física
+56,2026-01-21,10:11,101,iPhone XR,Pantalla rota,Completado,3.5,48,95,Juan,Instagram
+57,2026-01-21,12:44,132,Samsung S22,Micrófono,Completado,2,18,55,Lucía,Google
+58,2026-01-21,16:18,114,iPhone SE 2020,Conector de carga,Completado,2.5,18,50,Marcos,Web
+59,2026-01-22,09:55,136,iPad 8,Software,Completado,0.5,0,20,Sofía,Tienda física
+60,2026-01-22,13:33,128,iPhone 11,Humedad,En proceso,5,60,120,Pedro,Instagram
+61,2026-01-22,16:55,111,iPhone 12,Altavoz,Completado,1.5,15,45,Juan,Google
+62,2026-01-23,10:14,129,Samsung S21,Pantalla rota,Completado,3.5,48,95,Lucía,Web
+63,2026-01-23,12:47,135,Xiaomi Redmi Note 11,Batería,Completado,2,22,55,Marcos,Tienda física
+64,2026-01-23,15:33,118,iPhone XR,Micrófono,Completado,2,18,55,Sofía,Instagram
+65,2026-01-24,09:55,140,MacBook Air 2019,Conector de carga,Completado,3,25,75,Pedro,Google
+66,2026-01-24,11:44,103,iPhone 11,Software,Completado,1,0,25,Juan,Web
+67,2026-01-24,14:18,132,Samsung S22,Humedad,En proceso,5,60,120,Lucía,WhatsApp
+68,2026-01-25,10:33,114,iPad 8,Pantalla rota,Completado,3.5,48,95,Marcos,Tienda física
+69,2026-01-25,13:22,109,iPhone 13,Batería,Completado,2,22,55,Sofía,Instagram
+70,2026-01-25,16:41,128,Xiaomi Redmi Note 10,Altavoz,Completado,1.5,15,45,Pedro,Google
+71,2026-01-26,09:27,121,iPhone SE 2020,Conector de carga,Completado,2.5,18,50,Juan,Web
+72,2026-01-26,12:11,133,Samsung S21,Placa base,En proceso,6,80,150,Lucía,Tienda física
+73,2026-01-26,15:55,112,iPhone 12,Cámara,Completado,2.5,28,70,Marcos,Instagram
+74,2026-01-27,10:41,137,MacBook Air 2017,Software,Completado,1,0,25,Sofía,Google
+75,2026-01-27,13:33,105,iPhone XR,Pantalla rota,Completado,3.5,48,95,Pedro,Web
+76,2026-01-27,17:12,130,Xiaomi Redmi Note 11,Micrófono,Completado,2,18,55,Juan,WhatsApp
+77,2026-01-28,09:55,119,iPhone 11,Humedad,En proceso,5,60,120,Lucía,Tienda física
+78,2026-01-28,12:44,122,Samsung S22,Batería,Completado,2,22,55,Marcos,Instagram
+79,2026-01-28,15:18,134,iPad 8,Software,Completado,0.5,0,20,Sofía,Google
+80,2026-01-29,10:22,110,iPhone 13,Altavoz,Completado,1.5,15,45,Pedro,Web
+81,2026-01-29,12:58,138,Xiaomi Redmi Note 10,Pantalla rota,Completado,3.5,48,95,Juan,Instagram
+82,2026-01-29,16:33,117,Samsung S21,Conector de carga,Completado,2.5,18,50,Lucía,Google
+83,2026-01-30,09:44,132,iPhone SE 2020,Batería,Completado,2,22,55,Marcos,Tienda física
+84,2026-01-30,11:55,114,MacBook Air 2019,Altavoz,Completado,1.5,15,45,Sofía,Instagram
+85,2026-01-30,14:41,136,iPhone 12,Software,Completado,1,0,25,Pedro,Web
+86,2026-01-31,10:18,128,Samsung S22,Pantalla rota,Completado,3.5,48,95,Juan,Tienda física
+87,2026-01-31,12:55,103,iPhone XR,Micrófono,Completado,2,18,55,Lucía,Instagram
+88,2026-01-31,15:44,121,Xiaomi Redmi Note 11,Batería,Completado,2,22,55,Marcos,Google
+89,2026-02-01,09:33,109,iPhone 11,Conector de carga,Completado,2.5,18,50,Sofía,Web
+90,2026-02-01,11:47,133,Samsung S21,Humedad,En proceso,5,60,120,Pedro,WhatsApp
+91,2026-02-01,14:55,112,iPad 8,Cámara,Completado,2.5,28,70,Juan,Tienda física
+92,2026-02-02,10:11,137,iPhone 13,Software,Completado,1,0,25,Lucía,Instagram
+93,2026-02-02,12:44,105,Xiaomi Redmi Note 10,Altavoz,Completado,1.5,15,45,Marcos,Google
+94,2026-02-02,16:22,130,MacBook Air 2017,Pantalla rota,Completado,3.5,48,95,Sofía,Web
+95,2026-02-03,09:55,119,iPhone SE 2020,Micrófono,Completado,2,18,55,Pedro,Tienda física
+96,2026-02-03,12:33,122,Samsung S22,Batería,Completado,2,22,55,Juan,Instagram
+97,2026-02-03,15:18,134,iPhone 12,Conector de carga,Completado,2.5,18,50,Lucía,Google
+98,2026-02-04,10:41,110,iPad 8,Software,Completado,0.5,0,20,Marcos,Web
+99,2026-02-04,13:27,138,Xiaomi Redmi Note 11,Humedad,En proceso,5,60,120,Sofía,WhatsApp
+100,2026-02-04,16:55,117,iPhone XR,Pantalla rota,Completado,3.5,48,95,Pedro,Tienda física
+101,2026-02-05,09:22,132,Samsung S21,Altavoz,Completado,1.5,15,45,Juan,Instagram
+102,2026-02-05,11:55,114,iPhone 11,Batería,Completado,2,22,55,Lucía,Google
+103,2026-02-05,14:44,136,MacBook Air 2019,Software,Completado,1,0,25,Marcos,Web
+104,2026-02-06,10:33,128,iPhone 13,Cámara,Completado,2.5,28,70,Sofía,Tienda física
+105,2026-02-06,12:55,103,Samsung S22,Conector de carga,Completado,2.5,18,50,Pedro,Instagram
+106,2026-02-06,15:33,121,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Juan,Google
+107,2026-02-07,09:44,109,Xiaomi Redmi Note 10,Batería,Completado,2,22,55,Lucía,Web
+108,2026-02-07,12:18,133,iPad 8,Altavoz,Completado,1.5,15,45,Marcos,WhatsApp
+109,2026-02-07,16:11,112,iPhone 12,Humedad,En proceso,5,60,120,Sofía,Tienda física
+110,2026-02-08,10:22,137,Samsung S21,Software,Completado,1,0,25,Pedro,Instagram
+111,2026-02-08,12:55,105,iPhone XR,Micrófono,Completado,2,18,55,Juan,Google
+112,2026-02-08,15:44,130,Xiaomi Redmi Note 11,Conector de carga,Completado,2.5,18,50,Lucía,Web
+113,2026-02-09,09:33,119,iPhone 11,Pantalla rota,Completado,3.5,48,95,Marcos,Tienda física
+114,2026-02-09,11:55,122,Samsung S22,Batería,Completado,2,22,55,Sofía,Instagram
+115,2026-02-09,14:41,134,MacBook Air 2017,Altavoz,Completado,1.5,15,45,Pedro,Google
+116,2026-02-10,10:18,110,iPhone 13,Software,Completado,1,0,25,Juan,Web
+117,2026-02-10,12:55,138,Xiaomi Redmi Note 10,Humedad,En proceso,5,60,120,Lucía,WhatsApp
+118,2026-02-10,15:33,117,iPad 8,Cámara,Completado,2.5,28,70,Marcos,Tienda física
+119,2026-02-11,09:55,132,iPhone SE 2020,Conector de carga,Completado,2.5,18,50,Sofía,Instagram
+120,2026-02-11,12:44,114,Samsung S21,Pantalla rota,Completado,3.5,48,95,Pedro,Google
+121,2026-02-11,15:55,136,iPhone 12,Altavoz,Completado,1.5,15,45,Juan,Web
+122,2026-02-12,10:33,128,Samsung S22,Micrófono,Completado,2,18,55,Lucía,Tienda física
+123,2026-02-12,12:55,103,iPhone XR,Batería,Completado,2,22,55,Marcos,Instagram
+124,2026-02-12,16:18,121,Xiaomi Redmi Note 10,Software,Completado,1,0,25,Sofía,Google
+125,2026-02-13,09:44,109,MacBook Air 2017,Conector de carga,Completado,3,25,75,Pedro,Web
+126,2026-02-13,11:55,133,iPhone 11,Pantalla rota,Completado,3.5,48,95,Juan,WhatsApp
+127,2026-02-13,14:41,112,Samsung S21,Humedad,En proceso,5,60,120,Lucía,Tienda física
+128,2026-02-14,10:18,137,iPad 8,Cámara,Completado,2.5,28,70,Marcos,Instagram
+129,2026-02-14,12:55,105,iPhone 13,Software,Completado,1,0,25,Sofía,Google
+130,2026-02-14,15:33,130,Xiaomi Redmi Note 11,Altavoz,Completado,1.5,15,45,Pedro,Web
+131,2026-02-15,09:55,119,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Juan,Instagram
+132,2026-02-15,12:33,122,Samsung S22,Batería,Completado,2,22,55,Lucía,Google
+133,2026-02-15,15:18,134,iPhone 12,Conector de carga,Completado,2.5,18,50,Marcos,Web
+134,2026-02-16,10:41,110,iPad 8,Software,Completado,0.5,0,20,Sofía,WhatsApp
+135,2026-02-16,13:27,138,Xiaomi Redmi Note 10,Humedad,En proceso,5,60,120,Pedro,Tienda física
+136,2026-02-16,16:55,117,iPhone XR,Cámara,Completado,2.5,28,70,Juan,Instagram
+137,2026-02-17,09:22,132,Samsung S21,Altavoz,Completado,1.5,15,45,Lucía,Google
+138,2026-02-17,11:55,114,iPhone 11,Batería,Completado,2,22,55,Marcos,Web
+139,2026-02-17,14:44,136,MacBook Air 2019,Software,Completado,1,0,25,Sofía,WhatsApp
+140,2026-02-18,10:33,128,iPhone 13,Cámara,Completado,2.5,28,70,Pedro,Tienda física
+141,2026-02-18,12:55,103,Samsung S22,Conector de carga,Completado,2.5,18,50,Juan,Instagram
+142,2026-02-18,15:33,121,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Lucía,Google
+143,2026-02-19,09:44,109,Xiaomi Redmi Note 10,Batería,Completado,2,22,55,Marcos,Web
+144,2026-02-19,12:18,133,iPad 8,Altavoz,Completado,1.5,15,45,Sofía,WhatsApp
+145,2026-02-19,16:11,112,iPhone 12,Humedad,En proceso,5,60,120,Pedro,Tienda física
+146,2026-02-20,10:22,137,Samsung S21,Software,Completado,1,0,25,Juan,Instagram
+147,2026-02-20,12:55,105,iPhone XR,Micrófono,Completado,2,18,55,Lucía,Google
+148,2026-02-20,15:44,130,Xiaomi Redmi Note 11,Conector de carga,Completado,2.5,18,50,Marcos,Web
+149,2026-02-21,09:33,119,iPhone 11,Pantalla rota,Completado,3.5,48,95,Sofía,Tienda física
+150,2026-02-21,11:55,122,Samsung S22,Batería,Completado,2,22,55,Pedro,Instagram
+151,2026-02-21,14:41,134,MacBook Air 2017,Altavoz,Completado,1.5,15,45,Juan,Google
+152,2026-02-22,10:18,110,iPhone 13,Software,Completado,1,0,25,Lucía,Web
+153,2026-02-22,12:55,138,Xiaomi Redmi Note 10,Humedad,En proceso,5,60,120,Marcos,WhatsApp
+154,2026-02-22,15:33,117,iPad 8,Cámara,Completado,2.5,28,70,Sofía,Tienda física
+155,2026-02-23,09:55,132,iPhone SE 2020,Conector de carga,Completado,2.5,18,50,Pedro,Instagram
+156,2026-02-23,12:44,114,Samsung S21,Pantalla rota,Completado,3.5,48,95,Juan,Google
+157,2026-02-23,16:18,136,iPhone 12,Altavoz,Completado,1.5,15,45,Lucía,Web
+158,2026-02-24,09:55,128,Samsung S22,Micrófono,Completado,2,18,55,Marcos,WhatsApp
+159,2026-02-24,12:33,103,iPhone XR,Batería,Completado,2,22,55,Sofía,Tienda física
+160,2026-02-24,15:18,121,Xiaomi Redmi Note 10,Software,Completado,1,0,25,Pedro,Instagram
+161,2026-02-25,10:41,109,MacBook Air 2017,Conector de carga,Completado,3,25,75,Juan,Google
+162,2026-02-25,13:27,133,iPhone 11,Pantalla rota,Completado,3.5,48,95,Lucía,Web
+163,2026-02-25,16:55,112,Samsung S21,Humedad,En proceso,5,60,120,Marcos,WhatsApp
+164,2026-02-26,09:22,137,iPad 8,Cámara,Completado,2.5,28,70,Sofía,Tienda física
+165,2026-02-26,11:55,105,iPhone 13,Software,Completado,1,0,25,Pedro,Instagram
+166,2026-02-26,14:44,130,Xiaomi Redmi Note 11,Altavoz,Completado,1.5,15,45,Juan,Google
+167,2026-02-27,10:33,119,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Lucía,Web
+168,2026-02-27,12:55,122,Samsung S22,Batería,Completado,2,22,55,Marcos,WhatsApp
+169,2026-02-27,15:33,134,iPhone 12,Conector de carga,Completado,2.5,18,50,Sofía,Tienda física
+170,2026-02-28,09:44,110,iPad 8,Software,Completado,0.5,0,20,Pedro,Instagram
+171,2026-02-28,12:18,138,Xiaomi Redmi Note 10,Humedad,En proceso,5,60,120,Juan,Google
+172,2026-02-28,16:11,117,iPhone XR,Cámara,Completado,2.5,28,70,Lucía,Web
+173,2026-03-01,10:22,132,Samsung S21,Altavoz,Completado,1.5,15,45,Marcos,WhatsApp
+174,2026-03-01,12:55,114,iPhone 11,Batería,Completado,2,22,55,Sofía,Tienda física
+175,2026-03-01,15:44,136,MacBook Air 2019,Software,Completado,1,0,25,Pedro,Instagram
+176,2026-03-02,10:33,128,iPhone 13,Cámara,Completado,2.5,28,70,Juan,Google
+177,2026-03-02,12:55,103,Samsung S22,Conector de carga,Completado,2.5,18,50,Lucía,Web
+178,2026-03-02,15:33,121,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Marcos,WhatsApp
+179,2026-03-03,09:44,109,Xiaomi Redmi Note 10,Batería,Completado,2,22,55,Sofía,Tienda física
+180,2026-03-03,12:18,133,iPad 8,Altavoz,Completado,1.5,15,45,Pedro,Instagram
+181,2026-03-03,16:11,112,iPhone 12,Humedad,En proceso,5,60,120,Juan,Web
+182,2026-03-04,10:22,137,Samsung S21,Software,Completado,1,0,25,Lucía,Instagram
+183,2026-03-04,12:55,105,iPhone XR,Micrófono,Completado,2,18,55,Marcos,Google
+184,2026-03-04,15:44,130,Xiaomi Redmi Note 11,Conector de carga,Completado,2.5,18,50,Sofía,Web
+185,2026-03-05,09:33,119,iPhone 11,Pantalla rota,Completado,3.5,48,95,Pedro,Tienda física
+186,2026-03-05,11:55,122,Samsung S22,Batería,Completado,2,22,55,Juan,Instagram
+187,2026-03-05,14:41,134,MacBook Air 2017,Altavoz,Completado,1.5,15,45,Lucía,Google
+188,2026-03-06,10:18,110,iPhone 13,Software,Completado,1,0,25,Marcos,Web
+189,2026-03-06,12:55,138,Xiaomi Redmi Note 10,Humedad,En proceso,5,60,120,Sofía,WhatsApp
+190,2026-03-06,15:33,117,iPad 8,Cámara,Completado,2.5,28,70,Pedro,Tienda física
+191,2026-03-07,09:55,132,iPhone SE 2020,Conector de carga,Completado,2.5,18,50,Juan,Instagram
+192,2026-03-07,12:44,114,Samsung S21,Pantalla rota,Completado,3.5,48,95,Lucía,Google
+193,2026-03-07,16:18,136,iPhone 12,Altavoz,Completado,1.5,15,45,Marcos,Web
+194,2026-03-08,09:55,128,Samsung S22,Micrófono,Completado,2,18,55,Sofía,WhatsApp
+195,2026-03-08,12:33,103,iPhone XR,Batería,Completado,2,22,55,Pedro,Tienda física
+196,2026-03-08,15:18,121,Xiaomi Redmi Note 10,Software,Completado,1,0,25,Juan,Instagram
+197,2026-03-09,10:41,109,MacBook Air 2017,Conector de carga,Completado,3,25,75,Lucía,Google
+198,2026-03-09,13:27,133,iPhone 11,Pantalla rota,Completado,3.5,48,95,Marcos,Web
+199,2026-03-09,16:55,112,Samsung S21,Humedad,En proceso,5,60,120,Sofía,WhatsApp
+200,2026-03-10,09:22,137,iPad 8,Cámara,Completado,2.5,28,70,Pedro,Tienda física
+201,2026-03-10,11:55,105,iPhone 13,Software,Completado,1,0,25,Juan,Instagram
+202,2026-03-10,14:44,130,Xiaomi Redmi Note 11,Altavoz,Completado,1.5,15,45,Lucía,Google
+203,2026-03-11,10:33,119,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Marcos,Web
+204,2026-03-11,12:55,122,Samsung S22,Batería,Completado,2,22,55,Sofía,WhatsApp
+205,2026-03-11,15:33,134,iPhone 12,Conector de carga,Completado,2.5,18,50,Pedro,Tienda física
+206,2026-03-12,09:44,110,iPad 8,Software,Completado,0.5,0,20,Juan,Instagram
+207,2026-03-12,12:18,138,Xiaomi Redmi Note 10,Humedad,En proceso,5,60,120,Lucía,Google
+208,2026-03-12,16:11,117,iPhone XR,Cámara,Completado,2.5,28,70,Marcos,Web
+209,2026-03-13,10:22,132,Samsung S21,Altavoz,Completado,1.5,15,45,Sofía,WhatsApp
+210,2026-03-13,12:55,114,iPhone 11,Batería,Completado,2,22,55,Pedro,Tienda física
+211,2026-03-13,15:44,136,MacBook Air 2019,Software,Completado,1,0,25,Juan,Instagram
+212,2026-03-14,10:33,128,iPhone 13,Cámara,Completado,2.5,28,70,Lucía,Google
+213,2026-03-14,12:55,103,Samsung S22,Conector de carga,Completado,2.5,18,50,Marcos,Web
+214,2026-03-14,15:33,121,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Sofía,WhatsApp
+215,2026-03-15,09:44,109,Xiaomi Redmi Note 10,Batería,Completado,2,22,55,Pedro,Tienda física
+216,2026-03-15,12:18,133,iPad 8,Altavoz,Completado,1.5,15,45,Juan,Instagram
+217,2026-03-15,16:11,112,iPhone 12,Humedad,En proceso,5,60,120,Lucía,Google
+218,2026-03-16,10:22,137,Samsung S21,Software,Completado,1,0,25,Marcos,Web
+219,2026-03-16,12:55,105,iPhone XR,Micrófono,Completado,2,18,55,Sofía,WhatsApp
+220,2026-03-16,15:44,130,Xiaomi Redmi Note 11,Conector de carga,Completado,2.5,18,50,Pedro,Tienda física
+221,2026-03-17,09:33,119,iPhone 11,Pantalla rota,Completado,3.5,48,95,Juan,Instagram
+222,2026-03-17,11:55,122,Samsung S22,Batería,Completado,2,22,55,Lucía,Google
+223,2026-03-17,14:41,134,MacBook Air 2017,Altavoz,Completado,1.5,15,45,Marcos,Web
+224,2026-03-18,10:18,110,iPhone 13,Software,Completado,1,0,25,Sofía,WhatsApp
+225,2026-03-18,12:55,138,Xiaomi Redmi Note 10,Humedad,En proceso,5,60,120,Pedro,Tienda física
+226,2026-03-18,15:33,117,iPad 8,Cámara,Completado,2.5,28,70,Juan,Instagram
+227,2026-03-19,09:55,132,iPhone SE 2020,Conector de carga,Completado,2.5,18,50,Lucía,Google
+228,2026-03-19,12:44,114,Samsung S21,Pantalla rota,Completado,3.5,48,95,Marcos,Web
+229,2026-03-19,16:18,136,iPhone 12,Altavoz,Completado,1.5,15,45,Sofía,WhatsApp
+230,2026-03-20,09:55,128,Samsung S22,Micrófono,Completado,2,18,55,Pedro,Tienda física
+231,2026-03-20,12:33,103,iPhone XR,Batería,Completado,2,22,55,Juan,Instagram
+232,2026-03-20,15:18,121,Xiaomi Redmi Note 10,Software,Completado,1,0,25,Lucía,Google
+233,2026-03-21,10:41,109,MacBook Air 2017,Conector de carga,Completado,3,25,75,Marcos,Web
+234,2026-03-21,13:27,133,iPhone 11,Pantalla rota,Completado,3.5,48,95,Sofía,WhatsApp
+235,2026-03-21,16:55,112,Samsung S21,Humedad,En proceso,5,60,120,Pedro,Tienda física
+236,2026-03-22,09:22,137,iPad 8,Cámara,Completado,2.5,28,70,Juan,Instagram
+237,2026-03-22,11:55,105,iPhone 13,Software,Completado,1,0,25,Lucía,Google
+238,2026-03-22,14:44,130,Xiaomi Redmi Note 11,Altavoz,Completado,1.5,15,45,Marcos,Web
+239,2026-03-23,10:33,119,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Sofía,WhatsApp
+240,2026-03-23,12:55,122,Samsung S22,Batería,Completado,2,22,55,Pedro,Tienda física
+241,2026-03-23,15:33,134,iPhone 12,Conector de carga,Completado,2.5,18,50,Juan,Google
+242,2026-03-24,09:44,110,iPad 8,Software,Completado,0.5,0,20,Lucía,Web
+243,2026-03-24,12:18,138,Xiaomi Redmi Note 10,Humedad,En proceso,5,60,120,Marcos,WhatsApp
+244,2026-03-24,16:11,117,iPhone XR,Cámara,Completado,2.5,28,70,Sofía,Tienda física
+245,2026-03-25,10:22,132,Samsung S21,Altavoz,Completado,1.5,15,45,Pedro,Instagram
+246,2026-03-25,12:55,114,iPhone 11,Batería,Completado,2,22,55,Juan,Google
+247,2026-03-25,15:44,136,MacBook Air 2019,Software,Completado,1,0,25,Lucía,Web
+248,2026-03-26,10:33,128,iPhone 13,Cámara,Completado,2.5,28,70,Marcos,WhatsApp
+249,2026-03-26,12:55,103,Samsung S22,Conector de carga,Completado,2.5,18,50,Sofía,Tienda física
+250,2026-03-26,15:33,121,iPhone SE 2020,Pantalla rota,Completado,3.5,48,95,Pedro,Instagram

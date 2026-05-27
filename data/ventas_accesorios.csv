@@ -1,0 +1,127 @@
+id_venta,fecha,id_cliente,producto,categoria,precio,canal
+id_venta,fecha,id_cliente,producto,categoria,precio,canal
+id_venta,fecha,id_cliente,producto,categoria,precio,canal
+id_venta,fecha,id_cliente,producto,categoria,precio,canal
+id_venta,fecha,id_cliente,producto,categoria,precio,canal
+id_venta,fecha,id_cliente,producto,categoria,precio,canal
+id_venta,fecha,id_cliente,producto,categoria,precio,canal
+1,2026-01-02,102,Funda silicona iPhone 11,Accesorios,12,Tienda física
+2,2026-01-02,115,Protector vidrio templado,Accesorios,8,Instagram
+3,2026-01-03,108,Cargador rápido 20W,Cargadores,18,Google
+4,2026-01-03,121,Auriculares Bluetooth,Audio,22,Tienda física
+5,2026-01-04,134,Cable USB-C reforzado,Cables,10,WhatsApp
+6,2026-01-04,109,Powerbank 10.000 mAh,Energía,25,Web
+7,2026-01-05,118,Funda rígida Samsung S21,Accesorios,14,Instagram
+8,2026-01-05,140,Protector vidrio iPad,Accesorios,12,Tienda física
+9,2026-01-06,111,Cargador inalámbrico,Cargadores,28,Google
+10,2026-01-06,127,Auriculares cableados,Audio,9,Web
+11,2026-01-07,119,Funda silicona iPhone 12,Accesorios,12,Instagram
+12,2026-01-07,130,Cable Lightning original,Cables,19,Tienda física
+13,2026-01-08,105,Powerbank 20.000 mAh,Energía,32,Google
+14,2026-01-08,112,Protector vidrio templado,Accesorios,8,WhatsApp
+15,2026-01-09,138,Cargador rápido 30W,Cargadores,22,Tienda física
+16,2026-01-09,117,Auriculares Bluetooth,Audio,22,Instagram
+17,2026-01-10,125,Funda silicona Samsung S22,Accesorios,13,Google
+18,2026-01-10,136,Cable USB-C reforzado,Cables,10,Web
+19,2026-01-11,113,Powerbank 10.000 mAh,Energía,25,Tienda física
+20,2026-01-11,122,Protector vidrio templado,Accesorios,8,Instagram
+21,2026-01-12,132,Cargador rápido 20W,Cargadores,18,Google
+22,2026-01-12,139,Auriculares cableados,Audio,9,Web
+23,2026-01-13,116,Funda rígida iPhone XR,Accesorios,14,Tienda física
+24,2026-01-13,131,Cable Lightning original,Cables,19,Instagram
+25,2026-01-14,137,Powerbank 20.000 mAh,Energía,32,Google
+26,2026-01-14,120,Protector vidrio templado,Accesorios,8,Web
+27,2026-01-15,105,Cargador inalámbrico,Cargadores,28,Tienda física
+28,2026-01-15,126,Auriculares Bluetooth,Audio,22,Instagram
+29,2026-01-16,141,Funda silicona iPhone 13,Accesorios,12,Google
+30,2026-01-16,118,Cable USB-C reforzado,Cables,10,Web
+31,2026-01-17,110,Powerbank 10.000 mAh,Energía,25,Tienda física
+32,2026-01-17,133,Protector vidrio templado,Accesorios,8,Instagram
+33,2026-01-18,119,Cargador rápido 30W,Cargadores,22,Google
+34,2026-01-18,127,Auriculares cableados,Audio,9,Web
+35,2026-01-19,138,Funda rígida Samsung S21,Accesorios,14,Tienda física
+36,2026-01-19,121,Cable Lightning original,Cables,19,Instagram
+37,2026-01-20,134,Powerbank 20.000 mAh,Energía,32,Google
+38,2026-01-20,109,Protector vidrio templado,Accesorios,8,Web
+39,2026-01-21,101,Cargador inalámbrico,Cargadores,28,Tienda física
+40,2026-01-21,132,Auriculares Bluetooth,Audio,22,Instagram
+41,2026-01-22,114,Funda silicona iPhone 11,Accesorios,12,Google
+42,2026-01-22,128,Cable USB-C reforzado,Cables,10,Web
+43,2026-01-23,136,Powerbank 10.000 mAh,Energía,25,Tienda física
+44,2026-01-23,103,Protector vidrio templado,Accesorios,8,Instagram
+45,2026-01-24,121,Cargador rápido 20W,Cargadores,18,Google
+46,2026-01-24,130,Auriculares cableados,Audio,9,Web
+47,2026-01-25,112,Funda rígida iPhone XR,Accesorios,14,Tienda física
+48,2026-01-25,138,Cable Lightning original,Cables,19,Instagram
+49,2026-01-26,117,Powerbank 20.000 mAh,Energía,32,Google
+50,2026-01-26,134,Protector vidrio templado,Accesorios,8,Web
+51,2026-01-27,110,Cargador inalámbrico,Cargadores,28,Tienda física
+52,2026-01-27,105,Auriculares Bluetooth,Audio,22,Instagram
+53,2026-01-28,133,Funda silicona iPhone 12,Accesorios,12,Google
+54,2026-01-28,119,Cable USB-C reforzado,Cables,10,Web
+55,2026-01-29,122,Powerbank 10.000 mAh,Energía,25,Tienda física
+56,2026-01-29,136,Protector vidrio templado,Accesorios,8,Instagram
+57,2026-01-30,128,Cargador rápido 30W,Cargadores,22,Google
+58,2026-01-30,103,Auriculares cableados,Audio,9,Web
+59,2026-01-31,121,Funda rígida Samsung S22,Accesorios,14,Tienda física
+60,2026-01-31,130,Cable Lightning original,Cables,19,Instagram
+61,2026-02-01,112,Funda silicona iPhone 11,Accesorios,12,Tienda física
+62,2026-02-01,138,Cable USB-C reforzado,Cables,10,Instagram
+63,2026-02-02,117,Powerbank 10.000 mAh,Energía,25,Google
+64,2026-02-02,134,Protector vidrio templado,Accesorios,8,Web
+65,2026-02-03,110,Cargador rápido 20W,Cargadores,18,Tienda física
+66,2026-02-03,105,Auriculares cableados,Audio,9,Instagram
+67,2026-02-04,133,Funda rígida iPhone XR,Accesorios,14,Google
+68,2026-02-04,119,Cable Lightning original,Cables,19,Web
+69,2026-02-05,122,Powerbank 20.000 mAh,Energía,32,Tienda física
+70,2026-02-05,136,Protector vidrio templado,Accesorios,8,Instagram
+71,2026-02-06,128,Cargador inalámbrico,Cargadores,28,Google
+72,2026-02-06,103,Auriculares Bluetooth,Audio,22,Web
+73,2026-02-07,121,Funda silicona iPhone 12,Accesorios,12,Tienda física
+74,2026-02-07,130,Cable USB-C reforzado,Cables,10,Instagram
+75,2026-02-08,112,Powerbank 10.000 mAh,Energía,25,Google
+76,2026-02-08,138,Protector vidrio templado,Accesorios,8,Web
+77,2026-02-09,117,Cargador rápido 30W,Cargadores,22,Tienda física
+78,2026-02-09,134,Auriculares cableados,Audio,9,Instagram
+79,2026-02-10,110,Funda rígida Samsung S21,Accesorios,14,Google
+80,2026-02-10,105,Cable Lightning original,Cables,19,Web
+81,2026-02-11,133,Powerbank 20.000 mAh,Energía,32,Tienda física
+82,2026-02-11,119,Protector vidrio templado,Accesorios,8,Instagram
+83,2026-02-12,122,Cargador inalámbrico,Cargadores,28,Google
+84,2026-02-12,136,Auriculares Bluetooth,Audio,22,Web
+85,2026-02-13,128,Funda silicona iPhone 13,Accesorios,12,Tienda física
+86,2026-02-13,103,Cable USB-C reforzado,Cables,10,Instagram
+87,2026-02-14,121,Powerbank 10.000 mAh,Energía,25,Google
+88,2026-02-14,130,Protector vidrio templado,Accesorios,8,Web
+89,2026-02-15,112,Cargador rápido 20W,Cargadores,18,Tienda física
+90,2026-02-15,138,Auriculares cableados,Audio,9,Instagram
+91,2026-02-16,117,Funda rígida iPhone XR,Accesorios,14,Google
+92,2026-02-16,134,Cable Lightning original,Cables,19,Web
+93,2026-02-17,110,Powerbank 20.000 mAh,Energía,32,Tienda física
+94,2026-02-17,105,Protector vidrio templado,Accesorios,8,Instagram
+95,2026-02-18,133,Cargador inalámbrico,Cargadores,28,Google
+96,2026-02-18,119,Auriculares Bluetooth,Audio,22,Web
+97,2026-02-19,122,Funda silicona Samsung S22,Accesorios,14,Tienda física
+98,2026-02-19,136,Cable USB-C reforzado,Cables,10,Instagram
+99,2026-02-20,128,Powerbank 10.000 mAh,Energía,25,Google
+100,2026-02-20,103,Protector vidrio templado,Accesorios,8,Web
+101,2026-02-21,121,Cargador rápido 30W,Cargadores,22,Tienda física
+102,2026-02-21,130,Auriculares cableados,Audio,9,Instagram
+103,2026-02-22,112,Funda rígida iPhone XR,Accesorios,14,Google
+104,2026-02-22,138,Cable Lightning original,Cables,19,Web
+105,2026-02-23,117,Powerbank 20.000 mAh,Energía,32,Tienda física
+106,2026-02-23,134,Protector vidrio templado,Accesorios,8,Instagram
+107,2026-02-24,110,Cargador inalámbrico,Cargadores,28,Google
+108,2026-02-24,105,Auriculares Bluetooth,Audio,22,Web
+109,2026-02-25,133,Funda silicona iPhone 11,Accesorios,12,Tienda física
+110,2026-02-25,119,Cable USB-C reforzado,Cables,10,Instagram
+111,2026-02-26,122,Powerbank 10.000 mAh,Energía,25,Google
+112,2026-02-26,136,Protector vidrio templado,Accesorios,8,Web
+113,2026-02-27,128,Cargador rápido 20W,Cargadores,18,Tienda física
+114,2026-02-27,103,Auriculares cableados,Audio,9,Instagram
+115,2026-02-28,121,Funda rígida Samsung S21,Accesorios,14,Google
+116,2026-02-28,130,Cable Lightning original,Cables,19,Web
+117,2026-03-01,112,Powerbank 20.000 mAh,Energía,32,Tienda física
+118,2026-03-01,138,Protector vidrio templado,Accesorios,8,Instagram
+119,2026-03-02,117,Cargador inalámbrico,Cargadores,28,Google
+120,2026-03-02,134,Auriculares Bluetooth,Audio,22,Web

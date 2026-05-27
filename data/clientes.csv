@@ -1,0 +1,143 @@
+id_cliente,nombre,apellido,ciudad,codigo_postal,telefono,email
+id_cliente,nombre,apellido,ciudad,codigo_postal,telefono,email
+id_cliente,nombre,apellido,ciudad,codigo_postal,telefono,email
+101,Lucas,Pereyra,Mendoza,5500,2615123498,lucas.pereyra@mail.com
+102,María,Giménez,Godoy Cruz,5501,2614782231,maria.gimenez@mail.com
+103,Diego,Arancibia,Guaymallén,5521,2614239981,diego.arancibia@mail.com
+104,Sofía,Lucero,Las Heras,5539,2615128844,sofia.lucero@mail.com
+105,Matías,Cornejo,Maipú,5515,2614992210,matias.cornejo@mail.com
+106,Valentina,Quiroga,Mendoza,5500,2615331188,valentina.quiroga@mail.com
+107,Agustín,Reinoso,Godoy Cruz,5501,2614559022,agustin.reinoso@mail.com
+108,Julieta,Montoya,Guaymallén,5521,2614783311,julieta.montoya@mail.com
+109,Franco,Tejada,Las Heras,5539,2615120033,franco.tejada@mail.com
+110,Carla,Muñoz,Maipú,5515,2614667721,carla.munoz@mail.com
+111,Tomás,Barreiro,Mendoza,5500,2614998821,tomas.barreiro@mail.com
+112,Antonella,Suárez,Godoy Cruz,5501,2614781120,antonella.suarez@mail.com
+113,Bruno,Navarro,Guaymallén,5521,2614237711,bruno.navarro@mail.com
+114,Florencia,Peralta,Las Heras,5539,2615330044,florencia.peralta@mail.com
+115,Juan,Carrizo,Maipú,5515,2614551188,juan.carrizo@mail.com
+116,Melina,Agüero,Mendoza,5500,2615127710,melina.aguero@mail.com
+117,Facundo,Godoy,Godoy Cruz,5501,2614789901,facundo.godoy@mail.com
+118,Daniela,Ojeda,Guaymallén,5521,2614235510,daniela.ojeda@mail.com
+119,Ezequiel,Romero,Las Heras,5539,2614663311,ezequiel.romero@mail.com
+120,Paula,Miranda,Maipú,5515,2614991102,paula.miranda@mail.com
+121,Leonardo,Araya,Mendoza,5500,2615124400,leonardo.araya@mail.com
+122,Luciana,Rey,Godoy Cruz,5501,2614787722,luciana.rey@mail.com
+123,Gonzalo,Salinas,Guaymallén,5521,2614238820,gonzalo.salinas@mail.com
+124,Marina,Escobar,Las Heras,5539,2615332211,marina.escobar@mail.com
+125,Rodrigo,Alvarado,Maipú,5515,2614556610,rodrigo.alvarado@mail.com
+126,Ayelén,Castro,Mendoza,5500,2614990033,ayelen.castro@mail.com
+127,Nicolás,Reyes,Godoy Cruz,5501,2614785511,nicolas.reyes@mail.com
+128,Camila,Martínez,Guaymallén,5521,2614236611,camila.martinez@mail.com
+129,Julián,Fuentes,Las Heras,5539,2615122299,julian.fuentes@mail.com
+130,Romina,Delgado,Maipú,5515,2614668821,romina.delgado@mail.com
+131,Sebastián,Arce,Mendoza,5500,2615339910,sebastian.arce@mail.com
+132,Carolina,Bravo,Godoy Cruz,5501,2614557721,carolina.bravo@mail.com
+133,Martín,Silva,Guaymallén,5521,2614786610,martin.silva@mail.com
+134,Josefina,Palacios,Las Heras,5539,2614232201,josefina.palacios@mail.com
+135,Emiliano,Correa,Maipú,5515,2614997711,emiliano.correa@mail.com
+136,Agustina,Leiva,Mendoza,5500,2615126610,agustina.leiva@mail.com
+137,Maximiliano,Arrieta,Godoy Cruz,5501,2614784411,maxi.arrieta@mail.com
+138,Noelia,Montiel,Guaymallén,5521,2614239910,noelia.montiel@mail.com
+139,Hernán,Valdez,Las Heras,5539,2615335511,hernan.valdez@mail.com
+140,Brenda,Escudero,Maipú,5515,2614553300,brenda.escudero@mail.com
+141,Ignacio,Lucena,Mendoza,5500,2614665511,ignacio.lucena@mail.com
+142,Carla,Domínguez,Godoy Cruz,5501,2614782200,carla.dominguez@mail.com
+143,Matheo,Aguilar,Guaymallén,5521,2614231100,matheo.aguilar@mail.com
+144,Juliana,Reinoso,Las Heras,5539,2615124401,juliana.reinoso@mail.com
+145,Pablo,Mulet,Maipú,5515,2614996611,pablo.mulet@mail.com
+146,Solange,Aranda,Mendoza,5500,2615338821,solange.aranda@mail.com
+147,Kevin,Montes,Godoy Cruz,5501,2614559910,kevin.montes@mail.com
+148,Milagros,Saavedra,Guaymallén,5521,2614787711,milagros.saavedra@mail.com
+149,Cristian,Peredo,Las Heras,5539,2614235511,cristian.peredo@mail.com
+150,Daiana,Navarro,Maipú,5515,2614661100,daiana.navarro@mail.com
+151,Eliana,Molina,Mendoza,5500,2615127788,eliana.molina@mail.com
+152,Franco,Delgado,Godoy Cruz,5501,2614786622,franco.delgado@mail.com
+153,Mariela,Suárez,Guaymallén,5521,2614234411,mariela.suarez@mail.com
+154,Rodrigo,Lucero,Las Heras,5539,2615337722,rodrigo.lucero@mail.com
+155,Ayelén,Muñoz,Maipú,5515,2614558821,ayelen.munoz@mail.com
+156,Germán,Rey,Mendoza,5500,2614995522,german.rey@mail.com
+157,Carina,Aguilera,Godoy Cruz,5501,2614783300,carina.aguilera@mail.com
+158,Tomás,Barrios,Guaymallén,5521,2614239911,tomas.barrios@mail.com
+159,Lucía,Montes,Las Heras,5539,2615126611,lucia.montes@mail.com
+160,Matías,Escobar,Maipú,5515,2614667722,matias.escobar@mail.com
+161,Paola,Arce,Mendoza,5500,2615334411,paola.arce@mail.com
+162,Ignacio,Peralta,Godoy Cruz,5501,2614552200,ignacio.peralta@mail.com
+163,Romina,Navarro,Guaymallén,5521,2614785510,romina.navarro@mail.com
+164,Bruno,Silva,Las Heras,5539,2614237710,bruno.silva@mail.com
+165,Carolina,Fuentes,Maipú,5515,2614991100,carolina.fuentes@mail.com
+166,Leonel,Miranda,Mendoza,5500,2615123300,leonel.miranda@mail.com
+167,Florencia,Araya,Godoy Cruz,5501,2614788821,flor.araya@mail.com
+168,Maximiliano,Reinoso,Guaymallén,5521,2614236610,maxi.reinoso@mail.com
+169,Daniela,Correa,Las Heras,5539,2615332200,daniela.correa@mail.com
+170,Emanuel,Valdez,Maipú,5515,2614559911,emanuel.valdez@mail.com
+171,Melisa,Montiel,Mendoza,5500,2614664411,melisa.montiel@mail.com
+172,Kevin,Saavedra,Godoy Cruz,5501,2614787721,kevin.saavedra@mail.com
+173,Julieta,Peredo,Guaymallén,5521,2614235510,julieta.peredo@mail.com
+174,Agustín,Escudero,Las Heras,5539,2615124400,agustin.escudero@mail.com
+175,Carla,Lucena,Maipú,5515,2614996610,carla.lucena@mail.com
+176,Matheo,Domínguez,Mendoza,5500,2615338820,matheo.dominguez@mail.com
+177,Solange,Aguilar,Godoy Cruz,5501,2614559912,solange.aguilar@mail.com
+178,Brenda,Montes,Guaymallén,5521,2614787710,brenda.montes@mail.com
+179,Hernán,Saavedra,Las Heras,5539,2614235512,hernan.saavedra@mail.com
+180,Daiana,Peredo,Maipú,5515,2614661101,daiana.peredo@mail.com
+181,Lucas,Escudero,Mendoza,5500,2615127780,lucas.escudero@mail.com
+182,María,Lucena,Godoy Cruz,5501,2614786620,maria.lucena@mail.com
+183,Diego,Domínguez,Guaymallén,5521,2614234410,diego.dominguez@mail.com
+184,Sofía,Aguilar,Las Heras,5539,2615337720,sofia.aguilar@mail.com
+185,Matías,Montes,Maipú,5515,2614558820,matias.montes@mail.com
+186,Valentina,Saavedra,Mendoza,5500,2614995520,valentina.saavedra@mail.com
+187,Agustín,Peredo,Godoy Cruz,5501,2614783302,agustin.peredo@mail.com
+188,Julieta,Escudero,Guaymallén,5521,2614239912,julieta.escudero@mail.com
+189,Franco,Lucena,Las Heras,5539,2615126612,franco.lucena@mail.com
+190,Carla,Domínguez,Maipú,5515,2614667720,carla.dominguez2@mail.com
+191,Tomás,Aguilar,Mendoza,5500,2615334410,tomas.aguilar@mail.com
+192,Antonella,Montes,Godoy Cruz,5501,2614552202,antonella.montes@mail.com
+193,Bruno,Saavedra,Guaymallén,5521,2614785512,bruno.saavedra@mail.com
+194,Florencia,Peredo,Las Heras,5539,2614237712,flor.peredo@mail.com
+195,Juan,Escudero,Maipú,5515,2614991103,juan.escudero@mail.com
+196,Melina,Lucena,Mendoza,5500,2615123302,melina.lucena@mail.com
+197,Facundo,Domínguez,Godoy Cruz,5501,2614788820,facundo.dominguez@mail.com
+198,Daniela,Aguilar,Guaymallén,5521,2614236612,daniela.aguilar@mail.com
+199,Ezequiel,Montes,Las Heras,5539,2615332202,ezequiel.montes@mail.com
+200,Paula,Saavedra,Maipú,5515,2614559910,paula.saavedra@mail.com
+201,Leonardo,Araya,Mendoza,5500,2615124402,leonardo.araya2@mail.com
+202,Luciana,Rey,Godoy Cruz,5501,2614787723,luciana.rey2@mail.com
+203,Gonzalo,Salinas,Guaymallén,5521,2614238822,gonzalo.salinas2@mail.com
+204,Marina,Escobar,Las Heras,5539,2615332212,marina.escobar2@mail.com
+205,Rodrigo,Alvarado,Maipú,5515,2614556612,rodrigo.alvarado2@mail.com
+206,Ayelén,Castro,Mendoza,5500,2614990034,ayelen.castro2@mail.com
+207,Nicolás,Reyes,Godoy Cruz,5501,2614785512,nicolas.reyes2@mail.com
+208,Camila,Martínez,Guaymallén,5521,2614236612,camila.martinez2@mail.com
+209,Julián,Fuentes,Las Heras,5539,2615122298,julian.fuentes2@mail.com
+210,Romina,Delgado,Maipú,5515,2614668822,romina.delgado2@mail.com
+211,Sebastián,Arce,Mendoza,5500,2615339912,sebastian.arce2@mail.com
+212,Carolina,Bravo,Godoy Cruz,5501,2614557723,carolina.bravo2@mail.com
+213,Martín,Silva,Guaymallén,5521,2614786612,martin.silva2@mail.com
+214,Josefina,Palacios,Las Heras,5539,2614232202,josefina.palacios2@mail.com
+215,Emiliano,Correa,Maipú,5515,2614997712,emiliano.correa2@mail.com
+216,Agustina,Leiva,Mendoza,5500,2615126612,agustina.leiva2@mail.com
+217,Maximiliano,Arrieta,Godoy Cruz,5501,2614784412,maxi.arrieta2@mail.com
+218,Noelia,Montiel,Guaymallén,5521,2614239913,noelia.montiel2@mail.com
+219,Hernán,Valdez,Las Heras,5539,2615335512,hernan.valdez2@mail.com
+220,Brenda,Escudero,Maipú,5515,2614553302,brenda.escudero2@mail.com
+221,Ignacio,Lucena,Mendoza,5500,2614665512,ignacio.lucena2@mail.com
+222,Carla,Domínguez,Godoy Cruz,5501,2614782202,carla.dominguez3@mail.com
+223,Matheo,Aguilar,Guaymallén,5521,2614231102,matheo.aguilar2@mail.com
+224,Juliana,Reinoso,Las Heras,5539,2615124403,juliana.reinoso2@mail.com
+225,Pablo,Mulet,Maipú,5515,2614996612,pablo.mulet2@mail.com
+226,Solange,Aranda,Mendoza,5500,2615338822,solange.aranda2@mail.com
+227,Kevin,Montes,Godoy Cruz,5501,2614559913,kevin.montes2@mail.com
+228,Milagros,Saavedra,Guaymallén,5521,2614787712,milagros.saavedra2@mail.com
+229,Cristian,Peredo,Las Heras,5539,2614235513,cristian.peredo2@mail.com
+230,Daiana,Navarro,Maipú,5515,2614661102,daiana.navarro2@mail.com
+231,Eliana,Molina,Mendoza,5500,2615127789,eliana.molina2@mail.com
+232,Franco,Delgado,Godoy Cruz,5501,2614786623,franco.delgado2@mail.com
+233,Mariela,Suárez,Guaymallén,5521,2614234412,mariela.suarez2@mail.com
+234,Rodrigo,Lucero,Las Heras,5539,2615337723,rodrigo.lucero2@mail.com
+235,Ayelén,Muñoz,Maipú,5515,2614558822,ayelen.munoz2@mail.com
+236,Germán,Rey,Mendoza,5500,2614995523,german.rey2@mail.com
+237,Carina,Aguilera,Godoy Cruz,5501,2614783303,carina.aguilera2@mail.com
+238,Tomás,Barrios,Guaymallén,5521,2614239914,tomas.barrios2@mail.com
+239,Lucía,Montes,Las Heras,5539,2615126613,lucia.montes2@mail.com
+240,Matías,Escobar,Maipú,5515,2614667723,matias.escobar2@mail.com

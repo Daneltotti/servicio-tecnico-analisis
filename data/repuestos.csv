@@ -1,0 +1,21 @@
+repuesto_id,nombre_repuesto,categoria,costo,precio_sugerido,compatibilidad
+1,Pantalla iPhone 11,Pantalla,48,95,iPhone 11
+2,Pantalla iPhone 12,Pantalla,52,105,iPhone 12
+3,Pantalla iPhone 13,Pantalla,55,110,iPhone 13
+4,Pantalla iPhone XR,Pantalla,50,100,iPhone XR
+5,Pantalla Samsung S21,Pantalla,45,90,Samsung S21
+6,Pantalla Samsung S22,Pantalla,48,95,Samsung S22
+7,Pantalla Xiaomi Redmi Note 10,Pantalla,40,85,Xiaomi Redmi Note 10
+8,Pantalla Xiaomi Redmi Note 11,Pantalla,42,88,Xiaomi Redmi Note 11
+9,Batería iPhone 11,Batería,20,50,iPhone 11
+10,Batería iPhone 12,Batería,22,55,iPhone 12
+11,Batería Samsung S21,Batería,18,50,Samsung S21
+12,Batería Xiaomi Redmi Note 10,Batería,17,45,Xiaomi Redmi Note 10
+13,Conector de carga universal,Conector,18,50,iPhone 11|iPhone 12|Samsung S21|Xiaomi Redmi Note 10|Xiaomi Redmi Note 11
+14,Cámara trasera iPhone 12,Cámara,28,70,iPhone 12
+15,Cámara trasera Samsung S22,Cámara,30,75,Samsung S22
+16,Micrófono universal,Micrófono,18,55,iPhone 11|iPhone 12|Samsung S21|Samsung S22|Xiaomi Redmi Note 11
+17,Altavoz universal,Altavoz,15,45,iPhone 11|iPhone 12|Samsung S21|Samsung S22|Xiaomi Redmi Note 10
+18,Placa base iPhone 13,Placa base,80,150,iPhone 13
+19,Kit limpieza humedad,Humedad,12,35,Todos
+20,Software reset (sin repuesto),Software,0,20,Todos
