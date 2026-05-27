@@ -70,6 +70,7 @@ El análisis del sorteo y la satisfacción del cliente se visualiza en Power BI:
 ---
 
 ## 5. Estructura del repositorio
+```
 
 📂 servicio-tecnico-analisis
  ├── 📓 EDA_Tecnolab.ipynb
@@ -81,7 +82,7 @@ El análisis del sorteo y la satisfacción del cliente se visualiza en Power BI:
  │    ├── encuesta_sorteo.csv
  │    └── repuestos.csv
 
-
+```
 ---
 
 ## 6. Conclusión general
