@@ -71,4 +71,29 @@ El análisis del sorteo y la satisfacción del cliente se visualiza en Power BI:
 
 ## 5. Estructura del repositorio
 
+📂 servicio-tecnico-analisis
+ ├── 📓 EDA_Tecnolab.ipynb
+ ├── 📄 README.md
+ ├── 📂 data/
+ │    ├── clientes.csv
+ │    ├── tickets_reparacion.csv
+ │    ├── ventas_accesorios.csv
+ │    ├── encuesta_sorteo.csv
+ │    └── repuestos.csv
+
+
+---
+
+## 6. Conclusión general
+
+El negocio presenta buen volumen, margen saludable y patrones claros que permiten optimizar operaciones, mejorar la experiencia del cliente y aumentar la rentabilidad.
+
+---
+
+## Autor
+
+Danel — Analista de Datos / BI  
+Barcelona, España
+
+
 
