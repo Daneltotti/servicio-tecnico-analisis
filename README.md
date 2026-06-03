@@ -13,7 +13,7 @@ El análisis revela diferencias claras entre técnicos, fallas con mayor margen,
 
 Este proyecto realiza un análisis completo de datos reales de clientes, tickets de reparación, ventas de accesorios, repuestos y encuestas de satisfacción.  
 El objetivo es identificar patrones operativos, comerciales y de rentabilidad para mejorar la toma de decisiones.
-
+Entra en EDA_Tecnolab.ipynb para ver el proceso en Python
 ---
 
 ## 1. Preparación y limpieza de datos
