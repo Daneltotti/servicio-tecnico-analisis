@@ -1,3 +1,14 @@
+## Resumen Ejecutivo
+
+Este proyecto analiza el rendimiento operativo, comercial y financiero del servicio técnico de Tecnolab mediante dos enfoques complementarios:
+
+- **EDA en Python** para explorar fallas, modelos, tiempos de reparación, márgenes y comportamiento por ciudad.
+- **Dashboard en Power BI** para visualizar KPIs clave, desempeño por técnico, análisis financiero y patrones de demanda.
+
+El objetivo es identificar oportunidades de mejora en productividad, rentabilidad y experiencia del cliente.  
+El análisis revela diferencias claras entre técnicos, fallas con mayor margen, variaciones por ciudad y tendencias mensuales que permiten tomar decisiones estratégicas basadas en datos.
+
+
 # Análisis de Servicio Técnico y Ventas — Proyecto Tecnolab
 
 Este proyecto realiza un análisis completo de datos reales de clientes, tickets de reparación, ventas de accesorios, repuestos y encuestas de satisfacción.  
