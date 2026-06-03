@@ -201,15 +201,12 @@ El dashboard está dividido en tres páginas:
 
 ### 6. Capturas del dashboard
 
-Las capturas del informe se encuentran en:
-
-/powerbi/capturas/
-
-Incluyen:
-
-- Hoja **Datos**
-- Hoja **Desempeño**
-- Hoja **Finanza**
+## Hoja: Datos
+![Datos](https://github.com/Daneltotti/servicio-tecnico-analisis/blob/7dbb99c9a90c37d58a0dcd890fcfddbef82fbd0b/powerbi/capturas/Datos.png)
+## Hoja: Desempeño
+![Desempeño](https://github.com/Daneltotti/servicio-tecnico-analisis/blob/7dbb99c9a90c37d58a0dcd890fcfddbef82fbd0b/powerbi/capturas/Desempe%C3%B1o.png)
+## Hoja: Finanzas
+![Finanzas](https://github.com/Daneltotti/servicio-tecnico-analisis/blob/7dbb99c9a90c37d58a0dcd890fcfddbef82fbd0b/powerbi/capturas/Finanzas.png)
 
 
 ### 7. Conclusiones del análisis en Power BI
