@@ -102,10 +102,6 @@ El negocio presenta buen volumen, margen saludable y patrones claros que permite
 
 ---
 
-## Autor
-
-Danel — Analista de Datos / BI  
-Barcelona, España
 
 
 ## Power BI — Análisis del Servicio Técnico
@@ -217,4 +213,8 @@ El dashboard está dividido en tres páginas:
 - Los meses iniciales del año muestran una ligera caída en ingresos.
 - El análisis permite identificar oportunidades de capacitación, optimización de tiempos y mejora de la rentabilidad por tipo de falla.
 
+## Autor
+
+Danel — Analista de Datos / BI  
+Barcelona, España
 
